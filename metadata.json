@@ -1,0 +1,6 @@
+{
+  "name": "Dar-Et cv database",
+  "description": "Comprehensive employee CV management, recruitment database, and CV enhancement portal for Dar Al-Handasah Ethiopia Area Office with Excel/Word/PDF export, multi-language support (Amharic, English, Arabic), RBAC, and Google Drive integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
